@@ -37,13 +37,13 @@ NNNNNNNN         NNNNNNN   ooooooooooo       cccccccccccccccc          ttttttttt
 
 :root {
   --backgroundColor01: #1b1d1f;
-  --backgroundColor02: #141517;
-  --mainColor: #2275c9;
-  --gradientColor01: #00F260;
-  --gradientColor02: #0575E6;
+  --backgroundColor02: #2a2c30;
+  --mainColor: #265380;
+  --gradientColor01: #00f238;
+  --gradientColor02: #0550e6;
 
   /* Better Hljs */
-  --backgroundCode: #1e2731;
+  --backgroundCode: #1e3130;
   --backgroundName: rgba(0, 0, 0, .2);
 
   /* Radial Status */
